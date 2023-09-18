@@ -89,14 +89,14 @@ Welcome to Lunar Bank
 Enter your choice
 5
 Checking Master Account
-Acc	Name			    Date		Current Balance	Password
-1	Paul Shinji		7/8/2015	Rs.1,00,000       tortera
-2	Andrew Hayden		15/10/2017	Rs.59,000	       rosalia
-3	Gary Oak		    7/7/2017	Rs.99,000         umbreon
-4	Ash Ketchem		25/12/2016	Rs.77,000	       pikachu
-5	Drayden Ryvre		17/7/2017	Rs.1,00,000       vampire
-6	Sreelekha		    7/8/2018	Rs.77,777	       alien
-7	Alien Antigravity	24/7/2015	Rs.200000	       space
+Acc	Name			         Date		     Current Balance	    Password
+1	Paul Shinji		      7/8/2015	      Rs.1,00,000       tortera
+2	Andrew Hayden		    15/10/2017	    Rs.59,000	        rosalia
+3	Gary Oak		        7/7/2017	      Rs.99,000         umbreon
+4	Ash Ketchem		      25/12/2016	    Rs.77,000	        pikachu
+5	Drayden Ryvre		    17/7/2017	      Rs.1,00,000       vampire
+6	Sreelekha		        7/8/2018	      Rs.77,777	        alien
+7	Alien Antigravity	  24/7/2015	      Rs.200000	        space
 Welcome to Lunar Bank
 1. Creating Account 
 2. Withdrawal 
