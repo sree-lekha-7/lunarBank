@@ -1,0 +1,121 @@
+Welcome to Lunar Bank
+1. Creating Account 
+2. Withdrawal 
+3. Deposit 
+4. Checking Account 
+5. Checking Master Account 
+6. Exit
+Enter your choice
+1
+Creating Account
+Enter First Name 
+Alien
+Enter your Last Name 
+Antigravity
+Enter your account number
+7
+Enter your password
+space
+Enter your opening balance
+200000
+Name : Alien Antigravity
+Account Number : 7
+Password : space
+Opening Balance : Rs.200000
+ACCOUNT CREATION SUCCESSFUL
+Welcome to Lunar Bank
+1. Creating Account 
+2. Withdrawal 
+3. Deposit 
+4. Checking Account 
+5. Checking Master Account 
+6. Exit
+Enter your choice
+2
+Withdrawal
+Enter your account number
+2
+Enter your password
+roselia
+Enter the withdrawal amount
+4000
+Amount withdrawn : Rs.4000
+Balance after withdrawal : Rs.55000
+Welcome to Lunar Bank
+1. Creating Account 
+2. Withdrawal 
+3. Deposit 
+4. Checking Account 
+5. Checking Master Account 
+6. Exit
+Enter your choice
+3
+Deposit
+Enter your account number
+5
+Enter your password
+vampire
+Enter the deposit amount
+4500
+Amount withdrawn : Rs.4500
+Balance after deposition : Rs.104500
+Welcome to Lunar Bank
+1. Creating Account 
+2. Withdrawal 
+3. Deposit 
+4. Checking Account 
+5. Checking Master Account 
+6. Exit
+Enter your choice
+4
+Checking Account
+Enter your account number
+3
+Enter your password
+umbreon
+Your name is : Gary Oak
+Your account number is : 3
+Your password is : umbreon
+Last deposited on 7/8/2018 Rs.3000
+Last withdrew on 15/8/2018 Rs.0
+Current Balance : Rs.9900
+Welcome to Lunar Bank
+1. Creating Account 
+2. Withdrawal 
+3. Deposit 
+4. Checking Account 
+5. Checking Master Account 
+6. Exit
+Enter your choice
+5
+Checking Master Account
+Acc	Name			    Date		Current Balance	Password
+1	Paul Shinji		7/8/2015	Rs.1,00,000       tortera
+2	Andrew Hayden		15/10/2017	Rs.59,000	       rosalia
+3	Gary Oak		    7/7/2017	Rs.99,000         umbreon
+4	Ash Ketchem		25/12/2016	Rs.77,000	       pikachu
+5	Drayden Ryvre		17/7/2017	Rs.1,00,000       vampire
+6	Sreelekha		    7/8/2018	Rs.77,777	       alien
+7	Alien Antigravity	24/7/2015	Rs.200000	       space
+Welcome to Lunar Bank
+1. Creating Account 
+2. Withdrawal 
+3. Deposit 
+4. Checking Account 
+5. Checking Master Account 
+6. Exit
+Enter your choice
+7
+Sorry,the option you've chosen is not available.
+Please choose one of the following options: 
+Welcome to Lunar Bank
+1. Creating Account 
+2. Withdrawal 
+3. Deposit 
+4. Checking Account 
+5. Checking Master Account 
+6. Exit
+Enter your choice
+6
+Thank You for Your Visit to Lunar Bank
+
